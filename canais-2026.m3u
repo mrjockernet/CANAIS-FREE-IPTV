@@ -10,3 +10,6 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1775415866/ei/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png" group-title="TV ABERTA", BAND
 https://hqf6tcxuhk.singularcdn.net.br/live/019498af-1fdf-7df5-86bd-e4a6f588d6a7/s1/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImMxMDk5NDFhLWE1ODctNGEyOC04ZTM2LTJhZGIzZWIyYWQ2YyIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc3NTM5NDMwOSwibmJmIjoxNzc1Mzk0MzA5LCJleHAiOjE3Nzc5ODYzMDksInVyaV9zdWIiOiIvMDE5NDk4YWYtMWZkZi03ZGY1LTg2YmQtZTRhNmY1ODhkNmE3LyIsInVpZCI6ImMxMDk5NDFhLWE1ODctNGEyOC04ZTM2LTJhZGIzZWIyYWQ2YyIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.PwVxkcTvk4OCOv7DSZWZEAGah23K9ui0p0GJSB2gSVw&uid=c109941a-a587-4a28-8e36-2adb3eb2ad6c&magica=sim
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLbQIJk3tD7MwHLzMY-NlcQm3O1a2qj50PBnRNfgMsNFaPzUkQGVWDQcCg6_V6vg4mCQ31YgfA6ni-FKIIRaBjC8FSxV-IEDiKZTIr93qVZdbfuebt9YibwJSWCNBS40XuXR_SAtDFADfnWEUfqbRloiCe27rg0cyAMQ8QXzXBTAamjn-Yj_qcidM16l0/s200/RETR%C3%94%20CARTOON.webp" group-title="TV ABERTA" group-title="DESENHOS" , Retrô Cartoon
+https://stmv1.video.brstream.com.br/retroctv/retroctv/chunklist_w1418481055.m3u8
