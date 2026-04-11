@@ -11,10 +11,10 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1775520461/ei/
 #EXTINF:-1 tvg-logo="https://redecanaistv.lat/images/band.png" group-title="TV ABERTA", BAND
 https://d1muf25xa04so8hp10.cloudfront.lat/stream/nossoplayer/a7c52920fed65d7a24d3c08dac250813/band.txt
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLbQIJk3tD7MwHLzMY-NlcQm3O1a2qj50PBnRNfgMsNFaPzUkQGVWDQcCg6_V6vg4mCQ31YgfA6ni-FKIIRaBjC8FSxV-IEDiKZTIr93qVZdbfuebt9YibwJSWCNBS40XuXR_SAtDFADfnWEUfqbRloiCe27rg0cyAMQ8QXzXBTAamjn-Yj_qcidM16l0/s200/RETR%C3%94%20CARTOON.webp" group-title="TV ABERTA" group-title="DESENHOS" , Retrô Cartoon
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLbQIJk3tD7MwHLzMY-NlcQm3O1a2qj50PBnRNfgMsNFaPzUkQGVWDQcCg6_V6vg4mCQ31YgfA6ni-FKIIRaBjC8FSxV-IEDiKZTIr93qVZdbfuebt9YibwJSWCNBS40XuXR_SAtDFADfnWEUfqbRloiCe27rg0cyAMQ8QXzXBTAamjn-Yj_qcidM16l0/s200/RETR%C3%94%20CARTOON.webp" group-title="DESENHOS" , Retrô Cartoon
 https://stmv1.video.brstream.com.br/retroctv/retroctv/chunklist_w1418481055.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="TV ABERTA", TV CULTURA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1280px-Cultura_logo_2013.svg.png" group-title="TV ABERTA", TV CULTURA
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-oxdCoblnnJg/YTDkXEX3igI/AAAAAAAAFPk/XqnzIaBL9q08kr8U1vVqxLRqWqggiEWhgCPcBGAYYCw/s200/RECORD%2BTV.webp" group-title="Noticiário",Record TV MT
@@ -23,8 +23,38 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist_.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qC3WnRbjawk/XQq-p4bwJII/AAAAAAAABHY/ZPQTIfZpXScHUQy-BclnBT_2nvSsHn2ugCLcBGAs/s320/Screenshot_2019-06-19-19-57-14.png" group-title="Noticiário",Record News ES
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1697581703.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MIGZJ45yiak/YTD0rVWsJRI/AAAAAAAAFRE/ksLCYlZQ5xEAkpBizPg95GgwI5VsVc6LACLcBGAsYHQ/s200/TV%2BGAZETA.webp" group-title="Noticiário",TV Gazeta SP(TVC ARAÇATUBA)
+#EXTINF:-1 tvg-logo="https://miro.medium.com/v2/resize:fit:640/0*jPqas_at28_CrhQO.png" group-title="Noticiário",TV Gazeta SP(TVC ARAÇATUBA)
 https://5ad482a77183d.streamlock.net/financeirotvc21.com.br/financeirotvc21.com.br/chunklist_w510223076.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Cartoon_network_modified_logo.PNG" group-title="Infantil", Cartoon Network
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ninjago/images/4/46/Cartoon_Network.png/revision/latest?cb=20190723011753" group-title="DESENHOS", Cartoon Network
 https://xn---22--11--33--88--75---------b25zjfpkmbt1n9g9zza94e.xn----------------g34l3fkcn6n2hmd3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja8cbew2b4b0gd0edbjm2jpa1b1e9zva7a0347s4da2797e7qri.xn--1ck2e1b/docs/cartoon/__index.m3u8?sv=178&nu3zAQc9HC3GbwJq=1775820117-0n3BgqY5Kc0LSoQMHZLg4XV%2FJiABafyRvNTHn%2FX0ttg%3D
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5Rt7dDk3fjtc3HvOhbDJK2cE8Bfr-TtSS7fEhsN51Gap178nVvVEUc0Yr8GprGT6KCkexSy5R00keJJkgZQPs1g21oZr6hUfUu6odRa1JL7WQnW2Sr7bassaICZVmFXLWwWvndPd6ovlCnVltRcRLS_ZrWnCAmZmjDK_JJdDmwJ6BSnC0th5n0ydQpQ8/s200/TV%20O%20DIA.webp" group-title="TV ABERTA", TV O DIA
+https://6836041ea1117.streamlock.net/tvodia/tvodia/chunklist_w1178400659.m3u8
+
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=9c569606afab5b0a084a040bcf1120bcaf4efcde-4882464-images-thumbs&n=13" group-title="TV ABERTA", TV BRASIL
+https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_3000000=10004.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.webp" group-title="TV ABERTA", SBT SP
+https://6836041ea1117.streamlock.net/cverde/cverde/chunklist_w662554671.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.webp" group-title="TV ABERTA", SBT PI
+https://6836041ea1117.streamlock.net/cverde/cverde/chunklist_w340819722.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png" group-title="NATUREZA", Animal Planet
+https://d1muf25xa04so8hp10.cloudfront.lat/stream/nossoplayer/69590f9d2b1230057dda53e30608b335/animalplanet.txt
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/32/da/51/32da513f6b212ddd2c58ce708ffeff76.jpg" group-title="Comédia", COMEDY CENTRAL
+https://xn--d1ma04s8hp11.cloudfront.lat/stream/embedtv/66aa9801e87df5328254016683ea6844/comedycentral.txt
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/uE8jF2MsbsI/maxresdefault.jpg" group-title="Premium", HISTORY CHANNEL
+https://xn--d1ma04s8hp11.cloudfront.lat/stream/embedtv/5640743bb5e794ab092357a6c32631b7/history.txt
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/d6/d9/6c/d6d96c1445f6f5ddfbebe4472196930d.jpg" group-title="Premium", DISCOVERY CHANNEL
+https://xn--d1ma04s8hp11.cloudfront.lat/stream/embedtv/088223161513220cbdb750a2663f9176/discoverychannel.txt
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/espn/espn_facebook.png" group-title="Esportes", ESPN
+https://xn--d1ma04s8hp11.cloudfront.lat/stream/embedtv/94d3c06231bd22b802f4436a049a3c8a/espn.txt
+
+#EXTINF:-1 tvg-logo="https://futtemax.net/wp-content/uploads/megapix.jpg" group-title="Filmes", Megapix
+https://image-storage-3005.imgcontent.xyz/live/megapix/index.m3u8
