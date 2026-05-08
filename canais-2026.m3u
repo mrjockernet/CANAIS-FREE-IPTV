@@ -64,3 +64,9 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BcgnPbz.jpeg" group-title="Esportes", SPORT TV
 https://d1muf25xa04so8hp14.cloudfronte.lat/stream/nossoplayer/705af1ba9144c797faa110cc8874b7df/sportv.txt
+
+#EXTINF:-1 tvg-logo="https://s2-globo-play.glbimg.com/Dvt_acgh1w0bBssNLAUDdIgER0c=/fit-in/168x84/filters:quality(100)/https://s2-globo-play.glbimg.com/zbJCZDZgniqMgXVsKJnvSsv3HZk=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2025/u/O/4XWb7aSUyK4N5DqMR53A/2025-4960-ge-tv-logo-canais.png" group-title="Esportes", GE TV
+https://live-ber-sp-08-08.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYmVyLXNwLTA4LTA4LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc3ODI3OTk0OSwiaWF0IjoxNzc4MjU4MzQ5LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImVjZjgxY2MxLWIwMGUtNGM5My04MzE3LWM0ZmY4Y2U2N2UzYSIsInBhdGgiOiIvbGl2ZS9mKGJNYXg9MzYzMjAwMCxpPTIpL3Nwb2Zhc3QyNGhhL3BsYXlsaXN0Lm0zdTgifQ.tan-vEmABuXhONEbX8nBNWkbSYJbJ_kbNQMbZ7_WqojTM3TQfdBSH4ZWSN4zzVz7JYDtFBDiqYg5YLpYLkc6cAaB2WXhXUIhevPZSk13gY_6zhkHLIBcUMZzAofie_RGRG5QZpwK1GZjGrarDeJCZMDDPZ8HkRoWo5qndj8wnBafkKvwNxjd5AdYPrswJkkq8p_oX6ZPUmQrSfWcSHwjpxLDlqLYlZG9cuxNFRjwbaWwIYP8zcFh_RF_3QWl9YhtxVO8ySejRlVk4q7YwzavIlD39FHIF0Q9zWE3oRG1_PkdichRZwudoAzvT-bhJ3plecCONeBAi7lhhd_hGiV4tQ/live/f(bMax=3632000,i=2)/spofast24ha/spofast24ha-audio_1=96000-video=3632000.m3u8?custom_asset_key=spofast24ha_hls_v3&network_code=95377733&stream_id=4d2b01f3-82f0-4c56-b12a-74c0281992e8:DLS
+
+#EXTINF:-1 tvg-logo="https://futtemax.net/wp-content/uploads/globo.jpg" group-title="TV ABERTA", Globo RJ
+https://npmuf25xa05so8hp08.cloudfronte.lat/zzzstream/globorj.m3u8
